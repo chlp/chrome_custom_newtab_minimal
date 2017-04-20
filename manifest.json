@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Chlp Minimal NewTab",
+  "short_name": "CMNT",
+  "description": "Minimal code for your custom newtab extension",
+  "version": "0.0.1",
+  "chrome_url_overrides": {
+    "newtab": "main.html"
+  }
+}
